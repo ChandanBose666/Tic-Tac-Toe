@@ -1,0 +1,13 @@
+.background{
+    background-color: #12181b;
+    height: 100vh;
+    padding-top: 1px;
+}
+
+.title{
+    color: #ffffff;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 10%;
+}
+
